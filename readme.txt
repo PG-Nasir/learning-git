@@ -1,1 +1,1 @@
-read me
+I learn git from amigoscode
